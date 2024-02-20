@@ -1,0 +1,11 @@
+mkdir: /Users/dongguabai/Desktop/temp/openjdk12/openjdk/build/macosx-x86_64-serverANDclient-slowdebug/make-support/: Permission denied
+/bin/bash: /Users/dongguabai/Desktop/temp/openjdk12/openjdk/build/macosx-x86_64-serverANDclient-slowdebug/make-support/MODULE_INFOS.vardeps: No such file or directory
+FindJtregGroups /Users/dongguabai/Desktop/temp/openjdk12/openjdk/test/hotspot/jtreg                                                                      
+FindJtregGroups /Users/dongguabai/Desktop/temp/openjdk12/openjdk/test/jdk                                                                      
+FindJtregGroups /Users/dongguabai/Desktop/temp/openjdk12/openjdk/test/langtools                                                                      
+FindJtregGroups /Users/dongguabai/Desktop/temp/openjdk12/openjdk/test/nashorn                                                                      
+FindJtregGroups /Users/dongguabai/Desktop/temp/openjdk12/openjdk/test/jaxp                                                                      
+Generating main target list
+/bin/bash: /Users/dongguabai/Desktop/temp/openjdk12/openjdk/build/macosx-x86_64-serverANDclient-slowdebug/make-support/main-targets.gmk: No such file or directory
+make[1]: *** [create-main-targets-include] Error 1
+make: *** No rule to make target `all'.  Stop.
